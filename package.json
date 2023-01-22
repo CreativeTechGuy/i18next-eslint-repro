@@ -1,15 +1,14 @@
 {
   "name": "i18next-eslint-repro",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "lint": "eslint src/**"
   },
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.48.2",
-    "@typescript-eslint/parser": "^5.48.2",
-    "eslint": "^8.32.0",
-    "i18next": "^22.4.4",
-    "typescript": "^4.9.4"
+    "@typescript-eslint/eslint-plugin": "5.48.2",
+    "@typescript-eslint/parser": "5.48.2",
+    "eslint": "8.32.0",
+    "i18next": "22.4.4",
+    "typescript": "4.9.4"
   }
 }
